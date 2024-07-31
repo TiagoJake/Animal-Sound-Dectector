@@ -1,0 +1,22 @@
+#start{
+    letter-spacing: 1.5px;
+    width: 100px;
+}
+
+#header_div{
+    background-color:#95a3a4;
+    height: 100px;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}   
+
+body{
+    background-color:#e2e8dd;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#image{
+    width: 20%;
+}
